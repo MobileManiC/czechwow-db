@@ -35,7 +35,10 @@ CREATE TABLE `spell_proc_item_enchant` (
 
 LOCK TABLES `spell_proc_item_enchant` WRITE;
 /*!40000 ALTER TABLE `spell_proc_item_enchant` DISABLE KEYS */;
-INSERT INTO `spell_proc_item_enchant` VALUES (8034,9),(13897,6),(20004,6),(20005,1.6);
+INSERT INTO `spell_proc_item_enchant` VALUES (8034,9);
+INSERT INTO `spell_proc_item_enchant` VALUES (13897,6);
+INSERT INTO `spell_proc_item_enchant` VALUES (20004,6);
+INSERT INTO `spell_proc_item_enchant` VALUES (20005,1.6);
 /*!40000 ALTER TABLE `spell_proc_item_enchant` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -48,4 +51,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:59
+-- Dump completed

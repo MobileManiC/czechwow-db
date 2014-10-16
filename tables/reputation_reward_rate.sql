@@ -37,7 +37,9 @@ CREATE TABLE `reputation_reward_rate` (
 
 LOCK TABLES `reputation_reward_rate` WRITE;
 /*!40000 ALTER TABLE `reputation_reward_rate` DISABLE KEYS */;
-INSERT INTO `reputation_reward_rate` VALUES (529,1,1,1),(576,1,1,1),(609,1,1,1);
+INSERT INTO `reputation_reward_rate` VALUES (529,1,1,1);
+INSERT INTO `reputation_reward_rate` VALUES (576,1,1,1);
+INSERT INTO `reputation_reward_rate` VALUES (609,1,1,1);
 /*!40000 ALTER TABLE `reputation_reward_rate` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -50,4 +52,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:59
+-- Dump completed

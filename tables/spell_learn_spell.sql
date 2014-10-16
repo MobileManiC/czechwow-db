@@ -36,7 +36,15 @@ CREATE TABLE `spell_learn_spell` (
 
 LOCK TABLES `spell_learn_spell` WRITE;
 /*!40000 ALTER TABLE `spell_learn_spell` DISABLE KEYS */;
-INSERT INTO `spell_learn_spell` VALUES (2842,8681,1),(5149,1853,1),(5149,14922,1),(5784,33388,1),(13819,33388,1),(17002,24867,0),(23161,33391,1),(23214,33391,1),(24866,24864,0);
+INSERT INTO `spell_learn_spell` VALUES (2842,8681,1);
+INSERT INTO `spell_learn_spell` VALUES (5149,1853,1);
+INSERT INTO `spell_learn_spell` VALUES (5149,14922,1);
+INSERT INTO `spell_learn_spell` VALUES (5784,33388,1);
+INSERT INTO `spell_learn_spell` VALUES (13819,33388,1);
+INSERT INTO `spell_learn_spell` VALUES (17002,24867,0);
+INSERT INTO `spell_learn_spell` VALUES (23161,33391,1);
+INSERT INTO `spell_learn_spell` VALUES (23214,33391,1);
+INSERT INTO `spell_learn_spell` VALUES (24866,24864,0);
 /*!40000 ALTER TABLE `spell_learn_spell` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -49,4 +57,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:59
+-- Dump completed

@@ -35,7 +35,8 @@ CREATE TABLE `world_template` (
 
 LOCK TABLES `world_template` WRITE;
 /*!40000 ALTER TABLE `world_template` DISABLE KEYS */;
-INSERT INTO `world_template` VALUES (0,'world_map_eastern_kingdoms'),(1,'world_map_kalimdor');
+INSERT INTO `world_template` VALUES (0,'world_map_eastern_kingdoms');
+INSERT INTO `world_template` VALUES (1,'world_map_kalimdor');
 /*!40000 ALTER TABLE `world_template` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -48,4 +49,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:59
+-- Dump completed

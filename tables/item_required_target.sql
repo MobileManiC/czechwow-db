@@ -36,7 +36,47 @@ CREATE TABLE `item_required_target` (
 
 LOCK TABLES `item_required_target` WRITE;
 /*!40000 ALTER TABLE `item_required_target` DISABLE KEYS */;
-INSERT INTO `item_required_target` VALUES (3912,1,2530),(4479,1,2762),(4480,1,2761),(4481,1,2760),(8149,2,7318),(9328,1,7977),(9606,2,7584),(9618,2,2927),(9618,2,2928),(9618,2,2929),(9618,2,7808),(9619,2,5300),(9619,2,5304),(9619,2,5305),(9619,2,5306),(9620,2,5276),(9620,2,5278),(9621,2,5357),(9621,2,5358),(9621,2,14604),(9621,2,14640),(12647,1,4678),(12647,1,4681),(12647,1,4685),(15826,1,12296),(15826,1,12298),(15908,1,1196),(15911,1,1126),(15913,1,1201),(15914,1,2956),(15915,1,2959),(15916,1,2970),(15917,1,3099),(15919,1,3107),(15920,1,3126),(15921,1,1998),(15922,1,2043),(15923,1,1996),(22432,1,6498),(22432,1,6499),(22432,1,6500);
+INSERT INTO `item_required_target` VALUES (3912,1,2530);
+INSERT INTO `item_required_target` VALUES (4479,1,2762);
+INSERT INTO `item_required_target` VALUES (4480,1,2761);
+INSERT INTO `item_required_target` VALUES (4481,1,2760);
+INSERT INTO `item_required_target` VALUES (8149,2,7318);
+INSERT INTO `item_required_target` VALUES (9328,1,7977);
+INSERT INTO `item_required_target` VALUES (9606,2,7584);
+INSERT INTO `item_required_target` VALUES (9618,2,2927);
+INSERT INTO `item_required_target` VALUES (9618,2,2928);
+INSERT INTO `item_required_target` VALUES (9618,2,2929);
+INSERT INTO `item_required_target` VALUES (9618,2,7808);
+INSERT INTO `item_required_target` VALUES (9619,2,5300);
+INSERT INTO `item_required_target` VALUES (9619,2,5304);
+INSERT INTO `item_required_target` VALUES (9619,2,5305);
+INSERT INTO `item_required_target` VALUES (9619,2,5306);
+INSERT INTO `item_required_target` VALUES (9620,2,5276);
+INSERT INTO `item_required_target` VALUES (9620,2,5278);
+INSERT INTO `item_required_target` VALUES (9621,2,5357);
+INSERT INTO `item_required_target` VALUES (9621,2,5358);
+INSERT INTO `item_required_target` VALUES (9621,2,14604);
+INSERT INTO `item_required_target` VALUES (9621,2,14640);
+INSERT INTO `item_required_target` VALUES (12647,1,4678);
+INSERT INTO `item_required_target` VALUES (12647,1,4681);
+INSERT INTO `item_required_target` VALUES (12647,1,4685);
+INSERT INTO `item_required_target` VALUES (15826,1,12296);
+INSERT INTO `item_required_target` VALUES (15826,1,12298);
+INSERT INTO `item_required_target` VALUES (15908,1,1196);
+INSERT INTO `item_required_target` VALUES (15911,1,1126);
+INSERT INTO `item_required_target` VALUES (15913,1,1201);
+INSERT INTO `item_required_target` VALUES (15914,1,2956);
+INSERT INTO `item_required_target` VALUES (15915,1,2959);
+INSERT INTO `item_required_target` VALUES (15916,1,2970);
+INSERT INTO `item_required_target` VALUES (15917,1,3099);
+INSERT INTO `item_required_target` VALUES (15919,1,3107);
+INSERT INTO `item_required_target` VALUES (15920,1,3126);
+INSERT INTO `item_required_target` VALUES (15921,1,1998);
+INSERT INTO `item_required_target` VALUES (15922,1,2043);
+INSERT INTO `item_required_target` VALUES (15923,1,1996);
+INSERT INTO `item_required_target` VALUES (22432,1,6498);
+INSERT INTO `item_required_target` VALUES (22432,1,6499);
+INSERT INTO `item_required_target` VALUES (22432,1,6500);
 /*!40000 ALTER TABLE `item_required_target` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -49,4 +89,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:58
+-- Dump completed

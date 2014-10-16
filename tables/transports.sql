@@ -36,7 +36,14 @@ CREATE TABLE `transports` (
 
 LOCK TABLES `transports` WRITE;
 /*!40000 ALTER TABLE `transports` DISABLE KEYS */;
-INSERT INTO `transports` VALUES (20808,'Ratchet and Booty Bay',350818),(164871,'Orgrimmar and Undercity',356284),(175080,'Grom\'Gol Base Camp and Orgrimmar',303463),(176231,'Menethil Harbor and Theramore Isle',329313),(176244,'Teldrassil and Auberdine',316251),(176310,'Menethil Harbor and Auberdine',295579),(176495,'Grom\'Gol Base Camp and Undercity',333044),(177233,'Forgotton Coast and Feathermoon Stronghold',317038);
+INSERT INTO `transports` VALUES (20808,'Ratchet and Booty Bay',350818);
+INSERT INTO `transports` VALUES (164871,'Orgrimmar and Undercity',356284);
+INSERT INTO `transports` VALUES (175080,'Grom\'Gol Base Camp and Orgrimmar',303463);
+INSERT INTO `transports` VALUES (176231,'Menethil Harbor and Theramore Isle',329313);
+INSERT INTO `transports` VALUES (176244,'Teldrassil and Auberdine',316251);
+INSERT INTO `transports` VALUES (176310,'Menethil Harbor and Auberdine',295579);
+INSERT INTO `transports` VALUES (176495,'Grom\'Gol Base Camp and Undercity',333044);
+INSERT INTO `transports` VALUES (177233,'Forgotton Coast and Feathermoon Stronghold',317038);
 /*!40000 ALTER TABLE `transports` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -49,4 +56,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:59
+-- Dump completed

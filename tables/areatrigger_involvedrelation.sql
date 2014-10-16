@@ -35,7 +35,34 @@ CREATE TABLE `areatrigger_involvedrelation` (
 
 LOCK TABLES `areatrigger_involvedrelation` WRITE;
 /*!40000 ALTER TABLE `areatrigger_involvedrelation` DISABLE KEYS */;
-INSERT INTO `areatrigger_involvedrelation` VALUES (78,155),(87,76),(88,62),(98,201),(169,287),(175,455),(178,503),(196,578),(216,870),(225,944),(230,954),(231,984),(232,984),(235,984),(246,1149),(302,1265),(362,1448),(482,1699),(522,1719),(822,2240),(1205,2989),(1388,3505),(2327,4842),(2486,4811),(2926,25),(2946,6421),(3367,6025),(3986,8286);
+INSERT INTO `areatrigger_involvedrelation` VALUES (78,155);
+INSERT INTO `areatrigger_involvedrelation` VALUES (87,76);
+INSERT INTO `areatrigger_involvedrelation` VALUES (88,62);
+INSERT INTO `areatrigger_involvedrelation` VALUES (98,201);
+INSERT INTO `areatrigger_involvedrelation` VALUES (169,287);
+INSERT INTO `areatrigger_involvedrelation` VALUES (175,455);
+INSERT INTO `areatrigger_involvedrelation` VALUES (178,503);
+INSERT INTO `areatrigger_involvedrelation` VALUES (196,578);
+INSERT INTO `areatrigger_involvedrelation` VALUES (216,870);
+INSERT INTO `areatrigger_involvedrelation` VALUES (225,944);
+INSERT INTO `areatrigger_involvedrelation` VALUES (230,954);
+INSERT INTO `areatrigger_involvedrelation` VALUES (231,984);
+INSERT INTO `areatrigger_involvedrelation` VALUES (232,984);
+INSERT INTO `areatrigger_involvedrelation` VALUES (235,984);
+INSERT INTO `areatrigger_involvedrelation` VALUES (246,1149);
+INSERT INTO `areatrigger_involvedrelation` VALUES (302,1265);
+INSERT INTO `areatrigger_involvedrelation` VALUES (362,1448);
+INSERT INTO `areatrigger_involvedrelation` VALUES (482,1699);
+INSERT INTO `areatrigger_involvedrelation` VALUES (522,1719);
+INSERT INTO `areatrigger_involvedrelation` VALUES (822,2240);
+INSERT INTO `areatrigger_involvedrelation` VALUES (1205,2989);
+INSERT INTO `areatrigger_involvedrelation` VALUES (1388,3505);
+INSERT INTO `areatrigger_involvedrelation` VALUES (2327,4842);
+INSERT INTO `areatrigger_involvedrelation` VALUES (2486,4811);
+INSERT INTO `areatrigger_involvedrelation` VALUES (2926,25);
+INSERT INTO `areatrigger_involvedrelation` VALUES (2946,6421);
+INSERT INTO `areatrigger_involvedrelation` VALUES (3367,6025);
+INSERT INTO `areatrigger_involvedrelation` VALUES (3986,8286);
 /*!40000 ALTER TABLE `areatrigger_involvedrelation` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -48,4 +75,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:57
+-- Dump completed

@@ -38,7 +38,9 @@ CREATE TABLE `pool_gameobject_template` (
 
 LOCK TABLES `pool_gameobject_template` WRITE;
 /*!40000 ALTER TABLE `pool_gameobject_template` DISABLE KEYS */;
-INSERT INTO `pool_gameobject_template` VALUES (161557,1669,0,'Milly\'s Harvest (161557)'),(175334,1668,0,'Bijous Belongings'),(180654,1801,0,'Hardpacked Snowdrift (180654)');
+INSERT INTO `pool_gameobject_template` VALUES (161557,1669,0,'Milly\'s Harvest (161557)');
+INSERT INTO `pool_gameobject_template` VALUES (175334,1668,0,'Bijous Belongings');
+INSERT INTO `pool_gameobject_template` VALUES (180654,1801,0,'Hardpacked Snowdrift (180654)');
 /*!40000 ALTER TABLE `pool_gameobject_template` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -51,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:59
+-- Dump completed

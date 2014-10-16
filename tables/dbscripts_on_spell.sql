@@ -49,7 +49,15 @@ CREATE TABLE `dbscripts_on_spell` (
 
 LOCK TABLES `dbscripts_on_spell` WRITE;
 /*!40000 ALTER TABLE `dbscripts_on_spell` DISABLE KEYS */;
-INSERT INTO `dbscripts_on_spell` VALUES (11365,0,18,1000,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn Self'),(11885,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn treant corpse'),(11886,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn wildkin corpse'),(11887,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn hyppogryph corpse'),(11888,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn faerie dragon corpse'),(11889,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn mountain giant corpse'),(19250,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,'KillCredit'),(19250,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn Self'),(21052,0,15,8329,0,0,0,6,0,0,0,0,0,0,0,0,'Enthralled Deeprun Rat - Cast Suicide');
+INSERT INTO `dbscripts_on_spell` VALUES (11365,0,18,1000,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn Self');
+INSERT INTO `dbscripts_on_spell` VALUES (11885,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn treant corpse');
+INSERT INTO `dbscripts_on_spell` VALUES (11886,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn wildkin corpse');
+INSERT INTO `dbscripts_on_spell` VALUES (11887,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn hyppogryph corpse');
+INSERT INTO `dbscripts_on_spell` VALUES (11888,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn faerie dragon corpse');
+INSERT INTO `dbscripts_on_spell` VALUES (11889,3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn mountain giant corpse');
+INSERT INTO `dbscripts_on_spell` VALUES (19250,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,'KillCredit');
+INSERT INTO `dbscripts_on_spell` VALUES (19250,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,'Despawn Self');
+INSERT INTO `dbscripts_on_spell` VALUES (21052,0,15,8329,0,0,0,6,0,0,0,0,0,0,0,0,'Enthralled Deeprun Rat - Cast Suicide');
 /*!40000 ALTER TABLE `dbscripts_on_spell` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -62,4 +70,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:58
+-- Dump completed

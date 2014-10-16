@@ -35,7 +35,48 @@ CREATE TABLE `areatrigger_tavern` (
 
 LOCK TABLES `areatrigger_tavern` WRITE;
 /*!40000 ALTER TABLE `areatrigger_tavern` DISABLE KEYS */;
-INSERT INTO `areatrigger_tavern` VALUES (71,'Westfall - Sentinel Hill Inn'),(178,'Strahnbrad'),(562,'Elwynn Forest - Goldshire - Lion\'s Pride Inn'),(682,'Redridge Mountains - Lakeshire Inn'),(707,'Duskwood - Darkshire - Scarlet Raven Inn'),(708,'Hillsbrad Foothills - Southshore Inn'),(709,'Dustwallow Marsh - Theramore Isle'),(710,'Dun Morogh - Kharanos - Thunderbrew Distillery'),(712,'Loch Modan - Thelsamar - Stoutlager Inn'),(713,'Wetlands - Menethil Harbor - Deepwater Tavern'),(715,'Teldrassil - Dolanaar'),(716,'Darkshore - Auberdine'),(717,'Ashenvale - Astranaar'),(719,'Tirisfal Glades - Brill - Gallows\' End Tavern'),(720,'Silverpine Forest '),(721,'Hillsbrad Foothills '),(722,'Mulgore '),(742,'The Barrens '),(743,'The Barrens '),(843,'Durotar '),(844,'Swamp of Sorrows '),(862,'Stranglethorn Vale '),(982,'The Barrens '),(1022,'Stonetalon Mountains '),(1023,'Tanaris '),(1024,'Feralas '),(1025,'Feralas '),(1042,'Wildhammer Keep'),(1606,'Badlands '),(1646,'Arathi Highlands '),(2266,'Desolace '),(2267,'Desolace '),(2286,'Thousand Needles '),(2287,'Winterspring '),(2610,'Ashenvale '),(2786,'Stormwind backup rest'),(3547,'The Undercity'),(3690,'Revantusk Village'),(3886,'Grom\'gol Base Camp'),(3985,'Cenarion Hold'),(4058,'Light\'s Hope Chapel'),(4090,'Stonetalon Peak');
+INSERT INTO `areatrigger_tavern` VALUES (71,'Westfall - Sentinel Hill Inn');
+INSERT INTO `areatrigger_tavern` VALUES (178,'Strahnbrad');
+INSERT INTO `areatrigger_tavern` VALUES (562,'Elwynn Forest - Goldshire - Lion\'s Pride Inn');
+INSERT INTO `areatrigger_tavern` VALUES (682,'Redridge Mountains - Lakeshire Inn');
+INSERT INTO `areatrigger_tavern` VALUES (707,'Duskwood - Darkshire - Scarlet Raven Inn');
+INSERT INTO `areatrigger_tavern` VALUES (708,'Hillsbrad Foothills - Southshore Inn');
+INSERT INTO `areatrigger_tavern` VALUES (709,'Dustwallow Marsh - Theramore Isle');
+INSERT INTO `areatrigger_tavern` VALUES (710,'Dun Morogh - Kharanos - Thunderbrew Distillery');
+INSERT INTO `areatrigger_tavern` VALUES (712,'Loch Modan - Thelsamar - Stoutlager Inn');
+INSERT INTO `areatrigger_tavern` VALUES (713,'Wetlands - Menethil Harbor - Deepwater Tavern');
+INSERT INTO `areatrigger_tavern` VALUES (715,'Teldrassil - Dolanaar');
+INSERT INTO `areatrigger_tavern` VALUES (716,'Darkshore - Auberdine');
+INSERT INTO `areatrigger_tavern` VALUES (717,'Ashenvale - Astranaar');
+INSERT INTO `areatrigger_tavern` VALUES (719,'Tirisfal Glades - Brill - Gallows\' End Tavern');
+INSERT INTO `areatrigger_tavern` VALUES (720,'Silverpine Forest ');
+INSERT INTO `areatrigger_tavern` VALUES (721,'Hillsbrad Foothills ');
+INSERT INTO `areatrigger_tavern` VALUES (722,'Mulgore ');
+INSERT INTO `areatrigger_tavern` VALUES (742,'The Barrens ');
+INSERT INTO `areatrigger_tavern` VALUES (743,'The Barrens ');
+INSERT INTO `areatrigger_tavern` VALUES (843,'Durotar ');
+INSERT INTO `areatrigger_tavern` VALUES (844,'Swamp of Sorrows ');
+INSERT INTO `areatrigger_tavern` VALUES (862,'Stranglethorn Vale ');
+INSERT INTO `areatrigger_tavern` VALUES (982,'The Barrens ');
+INSERT INTO `areatrigger_tavern` VALUES (1022,'Stonetalon Mountains ');
+INSERT INTO `areatrigger_tavern` VALUES (1023,'Tanaris ');
+INSERT INTO `areatrigger_tavern` VALUES (1024,'Feralas ');
+INSERT INTO `areatrigger_tavern` VALUES (1025,'Feralas ');
+INSERT INTO `areatrigger_tavern` VALUES (1042,'Wildhammer Keep');
+INSERT INTO `areatrigger_tavern` VALUES (1606,'Badlands ');
+INSERT INTO `areatrigger_tavern` VALUES (1646,'Arathi Highlands ');
+INSERT INTO `areatrigger_tavern` VALUES (2266,'Desolace ');
+INSERT INTO `areatrigger_tavern` VALUES (2267,'Desolace ');
+INSERT INTO `areatrigger_tavern` VALUES (2286,'Thousand Needles ');
+INSERT INTO `areatrigger_tavern` VALUES (2287,'Winterspring ');
+INSERT INTO `areatrigger_tavern` VALUES (2610,'Ashenvale ');
+INSERT INTO `areatrigger_tavern` VALUES (2786,'Stormwind backup rest');
+INSERT INTO `areatrigger_tavern` VALUES (3547,'The Undercity');
+INSERT INTO `areatrigger_tavern` VALUES (3690,'Revantusk Village');
+INSERT INTO `areatrigger_tavern` VALUES (3886,'Grom\'gol Base Camp');
+INSERT INTO `areatrigger_tavern` VALUES (3985,'Cenarion Hold');
+INSERT INTO `areatrigger_tavern` VALUES (4058,'Light\'s Hope Chapel');
+INSERT INTO `areatrigger_tavern` VALUES (4090,'Stonetalon Peak');
 /*!40000 ALTER TABLE `areatrigger_tavern` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -48,4 +89,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-16 22:53:57
+-- Dump completed
